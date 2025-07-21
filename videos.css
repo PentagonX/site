@@ -17,4 +17,5 @@ a {
 
 a:hover {
     color: #d1d1d1;
+    filter: brightness(90%);
 }
